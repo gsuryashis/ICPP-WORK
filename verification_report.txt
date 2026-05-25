@@ -1,0 +1,27 @@
+Verification report (2026-05-25)
+
+Checked items (matched):
+1) FY21 real GDP contraction -6.6% (MoSPI First Revised Estimates 2020-21).
+   Source: PIB Press Release PRID=1793861 (31 Jan 2022).
+   Evidence: “Real GDP ... showing a contraction of 6.6 per cent during 2020-21.”
+   Action: Updated sources_links (1).txt to the correct PIB link (PRID=1793861).
+
+2) Aatmanirbhar Bharat stimulus size ~Rs.20 lakh crore.
+   Source: PIB Press Release PRID=1623601 (13 May 2020).
+   Evidence: “Special economic and comprehensive package of Rs 20 lakh crores - equivalent to 10% of India’s GDP.”
+
+3) PM-JAY: Rs.5 lakh cover; 42 crore Ayushman cards issued.
+   Source: PIB Press Note PRID=155855 (1 Nov 2025).
+   Evidence: “health insurance of up to Rs. 5 lakhs” and “more than 42 crore Ayushman cards have been issued.”
+
+Mismatches found:
+- The FY21 real GDP -6.6% claim was linked to PRID=2106921, which is a 2025 GDP press note and does not contain the FY21 -6.6% figure. Link corrected to PRID=1793861.
+
+Not verified due to access limits or source blocks (needs user-side check):
+- Road deaths in India 2023 = 1,72,890 (MoRTH report / VisionIAS / Business Standard).
+- DICGC coverage: 97.6% of accounts, 41.5% of deposits by value (Upstox).
+- NCRB cybercrime 86,420 cases; +31.2% from 65,893 (Tribune India / Drishti IAS).
+- Bengaluru cybercrime figure 17,631 (Deccan Herald).
+- Chennai floods insurance claims ~Rs.4,800 cr (Business Standard).
+- IRDAI annual report figures: 74 insurers; penetration/density numbers (PDF tables not text-extractable in this environment).
+- Remaining figures tied to sources that were inaccessible (403/blocked) or PDF tables requiring OCR.
