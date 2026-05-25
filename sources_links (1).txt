@@ -1,0 +1,767 @@
+================================================================
+RISK IN THE INDIAN ECONOMIC CONTEXT
+Sources & Links - Clickable Reference List (user-verified)
+================================================================
+
+This file lists every source cited in the slides with a direct,
+clickable URL. Open in any browser or PDF viewer that supports
+hyperlinks. Sources are listed by day and slide number. URLs
+marked with [v] have been confirmed accessible from the user's
+network.
+
+================================================================
+DAY 1 -- THE LADDER OF RISK
+================================================================
+
+----------------------------------------------------------------
+SEGMENT 1 - WHAT IS RISK?
+----------------------------------------------------------------
+
+S1.1 (Title slide)
+  Knight, F.H. (1921). Risk, Uncertainty, and Profit.
+  [v] Library of Congress (download PDF):
+      https://www.loc.gov/item/21012860/
+      Internet Archive:
+      https://archive.org/details/riskuncertaintyp00knigrich
+      Online Library of Liberty:
+      https://oll.libertyfund.org/titles/knight-risk-uncertainty-and-profit
+
+S1.2 (Definition of risk + 3 grounding data points)
+
+  (1) Road deaths in India 2023 = 1,72,890
+      MoRTH (2025), Road Accidents in India 2023.
+      Primary report (may be slow on some networks):
+      https://morth.gov.in/sites/default/files/Road-Accident-in-India-2023-Publications.pdf
+      [v] Vision IAS summary (verified working):
+      https://visionias.in/current-affairs/news-today/2025-08-29/social-issues/road-accidents-in-india-2023-report-released-by-ministry-of-road-transport-and-highways
+      Business Standard summary:
+      https://www.business-standard.com/india-news/road-accidents-up-4-2-in-2023-172k-lives-lost-despite-safety-push-125082901336_1.html
+
+  (2) Scheduled commercial aviation in India: 0 accidents per
+      million departures in 2023.
+      [v] ICAO Safety Report 2024 (downloadable PDF):
+      https://www.icao.int/sites/default/files/sp-files/safety/Documents/ICAO_SR_2024.pdf
+      [v] Statista (citing ICAO data, India series 2008-2023):
+      https://www.statista.com/statistics/948184/india-accident-rate-per-million-departures-of-scheduled-commercial-flights/
+      [v] ICAO press release confirming 2023 global safety figures:
+      https://www.icao.int/news/aviation-safety-improved-despite-challenges-pandemic-recovery
+
+  (3) DICGC: Rs.5 lakh cover per depositor; 97.6% of accounts
+      and 41.5% of deposits by value covered (as of March 31, 2025).
+      [v] MoS Finance Rajya Sabha reply (Pankaj Chaudhary,
+          22 July 2025), mirrored at Upstox:
+      https://upstox.com/news/personal-finance/investing/deposit-safety-5-lakh-dicgc-limit-covers-most-bank-deposit-accounts-not-most-money-here-s-why/article-178643/
+      [v] RBI announcement raising cover from Rs.1 lakh to
+          Rs.5 lakh (Feb 4, 2020):
+      https://www.business-standard.com/amp/article/finance/enhanced-insurance-cover-of-rs-5-lakh-on-bank-deposits-from-tuesday-rbi-120020401854_1.html
+
+S1.3 (Risk and You - 3 audience questions)
+  No external sources. Discussion slide.
+
+S1.4 (Two ways to weigh risk - classical vs behavioural)
+
+  (1) Classical view: von Neumann & Morgenstern (1944).
+      Theory of Games and Economic Behavior. Princeton University Press.
+      [v] Internet Archive (downloadable PDF, full book):
+      https://archive.org/details/in.ernet.dli.2015.215284
+      Alternate scan:
+      https://archive.org/details/theoryofgameseco0000john_y7n2
+
+  (2) Behavioural view: Kahneman, D. & Tversky, A. (1979).
+      "Prospect Theory: An Analysis of Decision under Risk."
+      Econometrica 47(2): 263-291.
+      [v] MIT mirror (downloadable PDF):
+      https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf
+      [v] UW mirror (downloadable PDF):
+      https://courses.washington.edu/pbafhall/514/514%20Readings/ProspectTheory.pdf
+      JSTOR (official):
+      https://www.jstor.org/stable/1914185
+
+S1.5 (Three kinds of risk-takers - averse / neutral / loving)
+  Standard textbook definitions. No URLs - these are in any
+  intermediate micro textbook:
+   - Varian, H.R. (2014). Intermediate Microeconomics, Ch. 12.
+   - Mas-Colell, Whinston & Green (1995). Microeconomic Theory, Ch. 6.
+
+S1.6 (Risk vs Uncertainty - the Knight 2x2)
+  Knight, F.H. (1921). Risk, Uncertainty, and Profit.
+  Risk/uncertainty distinction: Part III, Chapters VII-VIII.
+  [v] Library of Congress (downloadable PDF):
+      https://www.loc.gov/item/21012860/
+      Internet Archive:
+      https://archive.org/details/riskuncertaintyp00knigrich
+  Figure on slide: Knight risk vs uncertainty table from
+  user's existing doc (publication-quality, reused as-is).
+
+S1.7 (Ceteris paribus - Goa trip example)
+  Illustrative example. No external sources.
+
+================================================================
+SEGMENT 2 - NON-ECONOMIC RISKS
+================================================================
+
+S2.1 (Why risks now feel bigger)
+
+  (1) Swiss Re Institute (2024). Sigma 1/2024: Natural
+      catastrophes in 2023.
+      [v] Primary:
+      https://www.swissre.com/institute/research/sigma-research/sigma-2024-01.html
+      [v] In-short version:
+      https://www.swissre.com/institute/research/sigma-research/sigma-2024-01/in-short.html
+
+  (2) NCRB Crime in India 2023 (released Sep 2025).
+      Cybercrime: 86,420 cases in 2023 (up 31.2% from 65,893 in 2022).
+      [v] Tribune India coverage (works on Indian networks):
+      https://www.tribuneindia.com/news/india/murder-cases-dip-online-cheating-forgery-spike-reveals-ncrb-data
+      [v] Drishti IAS summary:
+      https://www.drishtiias.com/daily-updates/daily-news-analysis/crime-in-india-2023-report
+      Bengaluru figure (17,631 cases):
+      https://www.deccanherald.com/india/karnataka/bengaluru/b-luru-cybercrime-tally-more-than-top-10-cities-total-3748817
+
+S2.2 (How non-economic shocks become economic - Charts 1.21 and 1.22)
+
+  (1) RBI Financial Stability Report, June 2024, Charts 1.21 and 1.22.
+      [v] RBI FSR page (latest FSRs):
+      https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=1248
+      Direct PDF link (June 2024 FSR):
+      https://rbidocs.rbi.org.in/rdocs/PublicationReport/Pdfs/0FSRJUNE202434E66DABCF4843C9871C0C9F75C90BA1.PDF
+
+  (2) Caldara, D. & Iacoviello, M. (2022). "Measuring Geopolitical Risk."
+      American Economic Review 112(4): 1194-1225.
+      [v] Open-access GPR Index page (with downloadable data):
+      https://www.matteoiacoviello.com/gpr.htm
+      [v] Federal Reserve working paper version (downloadable PDF):
+      https://www.federalreserve.gov/econres/ifdp/files/ifdp1222.pdf
+
+  Charts on the slide come from the user's existing doc (Chart 1.21
+  Geopolitical Risk Index + Trade Restrictions; Chart 1.22 Crude Oil
+  indexed to event day for US 9/11, Iraq war, Russia-Ukraine,
+  Israel-Hamas).
+
+S2.3 (Who actually paid? - bridge into Segment 3)
+
+  (1) MoSPI (2022). First Revised Estimates of National Income, 2020-21.
+      India FY21 real GDP -6.6%.
+      [v] PIB: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2106921
+
+  (2) WHO (2022). Global excess deaths associated with COVID-19.
+      India ~4.74 million excess deaths for 2020-21.
+      https://www.who.int/data/sets/global-excess-deaths-associated-with-covid-19-modelled-estimates
+
+  (3) Government of India (May 2020). Aatmanirbhar Bharat stimulus
+      (~Rs.20 lakh crore).
+      [v] PIB: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1623601
+
+  (4) G. Srinivasan, Chairman, General Insurance Council (FICCI,
+      22 Jan 2016). Chennai 2015 floods insurance claims ~Rs.4,800 cr.
+      [v] Business Standard: https://www.business-standard.com/amp/article/current-affairs/chennai-floods-insurance-claims-touch-rs-4-800-crore-116012201026_1.html
+
+  Image on slide: migrant workers photo from user's existing doc
+  (April 2020, Paharganj).
+
+================================================================
+SEGMENT 3 - ECONOMIC RISK AT THE INDIVIDUAL LEVEL
+================================================================
+
+S3.1 (How insurance works - mechanism + India's toolkit + PM-JAY)
+
+  (1) IRDAI Annual Report 2024-25. 74 insurers as of March 2025
+      (26 life, 25 general, 8 standalone health, 2 specialised,
+      13 reinsurers).
+      [v] Life Insurance Council mirror PDF:
+      https://lifeinscouncil.org/component/IRDAI%20Annual%20Report%202024-25.pdf
+      [v] IRDAI annual reports page:
+      https://irdai.gov.in/annual-reports
+      [v] Business Standard summary of FY25 figures:
+      https://www.business-standard.com/amp/finance/insurance/india-s-insurance-penetration-needle-remains-flat-at-3-7-in-2024-25-126010900679_1.html
+
+  (2) PM-JAY: 42 crore Ayushman cards issued; Rs.5 lakh family cover.
+      [v] PIB (28 Oct 2025):
+      https://www.pib.gov.in/PressNoteDetails.aspx?id=155855&NoteId=155855&ModuleId=3
+      [v] NHA dashboard:
+      https://dashboard.pmjay.gov.in/
+
+  Image on slide: LIC HQ photo from user's existing doc.
+
+S3.2 (India under-insures itself - data + Swiss Re S-curves)
+
+  (1) IRDAI Annual Report 2024-25, Tables I.7 and I.8 (penetration
+      & density India vs World).
+      [v] Same as S3.1 source.
+      India FY25: 3.7% overall (life 2.7%, non-life 1.0%); density
+      USD 97 (life 72, non-life 25).
+      Global 2024: 7.3% overall (life 3.0%, non-life 4.3%); density
+      USD 943 (life 388, non-life 555).
+
+  (2) Swiss Re Sigma World Insurance report, Figure 9 (S-curves
+      for India, China, Brazil, Mexico, 2003 / 2023 / 2033F).
+      [v] Swiss Re sigma archive:
+      https://www.swissre.com/institute/research/sigma-research.html
+
+  Figure on slide: Swiss Re S-curves from user's existing doc.
+
+S3.3 (When individuals cannot insure - terror tables)
+
+  (1) Swiss Re Sigma 1/2002: Natural catastrophes and man-made
+      disasters in 2001 - high losses. Tables 4 and 5.
+      Table 4: 10 most costly insured terror losses.
+      Table 5: 10 most deadly terror attacks (includes Mumbai
+      12.03.1993, 300 victims, US$6m insured).
+      [v] Swiss Re sigma archive:
+      https://www.swissre.com/institute/research/sigma-research.html
+
+  Table on slide: Reconstructed from rows in Swiss Re Tables 4 & 5
+  (not the original screenshots).
+
+================================================================
+SEGMENT 4 - ECONOMIC RISK AT THE FIRM LEVEL
+================================================================
+
+S4.1 (How firms manage risk - textbook taxonomy + 4 instruments)
+  Standard textbook treatment. No web URLs required.
+   - Hull, J.C. (2024). Options, Futures, and Other Derivatives, 12th ed.
+   - Brealey, Myers & Allen (2023). Principles of Corporate Finance, 14th ed.
+
+S4.2 (When the insurer becomes the risk - AIG, IL&FS, Yes Bank)
+
+  (1) McDonald, R. & Paulson, A. (2015). "AIG in Hindsight."
+      Journal of Economic Perspectives 29(2): 81-106.
+      [v] NBER WP: https://www.nber.org/papers/w21108
+      [v] AEA/JEP: https://www.aeaweb.org/articles?id=10.1257/jep.29.2.81
+
+  (2) RBI Financial Stability Report, December 2018 (IL&FS box).
+      [v] https://www.rbi.org.in/Scripts/FsReports.aspx
+
+  (3) RBI Press Release (5 March 2020): Moratorium on Yes Bank.
+      [v] https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=49476
+
+  (4) RBI Press Release (13 March 2020): Yes Bank Reconstruction Scheme.
+      [v] https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=49479
+
+  (5) RBI Annual Report 2023-24, Tables VI.1 (Frauds Bank Group-wise)
+      and VI.2 (Frauds Area of Operations).
+      Takeaways:
+       - PSBs: 20.7% of cases, 75.3% of amount in FY24
+       - Card/Internet fraud cases: 3,596 (FY22) -> 29,082 (FY24), 8x
+      [v] https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx
+
+S4.3 (Risk increases with interconnectedness - snakes & ladders)
+
+  (1) DHFL default June 2019 - Business Standard (25 Nov 2019):
+      "Banks have an exposure of Rs 38,000 crore in DHFL, which owes
+      Rs 84,000 crore to mutual funds, retail depositors, and others."
+      [v] https://www.business-standard.com/amp/article/finance/dhfl-lenders-to-make-provisions-from-dec-quarter-as-auditor-checks-company-119112500092_1.html
+
+  (2) Russia-Ukraine impact on Indian inflation; first Section 45ZN
+      report sent November 2022.
+      RBI Monetary Policy Report, April 2023:
+      [v] https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=21610
+
+  Image on slide: Snakes & Ladders board (user-supplied).
+
+================================================================
+SEGMENT 5 - THE SYSTEMIC LAYER
+================================================================
+
+S5.1 (Monsoon, inflation, policy shocks - 3 columns)
+
+  (1) Monsoon -- Gadgil, S. & Gadgil, S. (2006). "The Indian Monsoon,
+      GDP and Agriculture." EPW 41(47): 4887-4895.
+      [v] EPW page:
+      https://www.epw.in/journal/2006/47/special-articles/indian-monsoon-gdp-and-agriculture.html
+
+  (2) Monsoon update -- Brey, B. & Hertweck, M.S. (2023).
+      "The Dynamic Effects of Monsoon Rainfall Shocks on
+      Agricultural Yield, Wages, and Food Prices in India."
+      Scandinavian Journal of Economics 125(3): 616-654.
+      [v] https://onlinelibrary.wiley.com/doi/10.1111/sjoe.12524
+
+  (3) CPI peak (7.79% Apr 2022) and trough (3.54% Jul 2024):
+      MoSPI CPI press releases.
+      [v] https://www.cpi.mospi.gov.in/
+      [v] July 2024 PHDCCI summary:
+      https://www.phdcci.in/wp-content/uploads/2024/08/CPI-Inflation-softened-to-3.5-in-July-2024.pdf
+
+  (4) Demonetisation (86% currency, 99.3% returned):
+      RBI Annual Report 2017-18.
+      [v] https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1234
+
+  (5) Chodorow-Reich, G., Gopinath, G., Mishra, P. & Narayanan, A.
+      (2020). "Cash and the Economy: Evidence from India's
+      Demonetization." QJE 135(1): 57-103.
+      [v] NBER WP: https://www.nber.org/papers/w25370
+      QJE: https://doi.org/10.1093/qje/qjz027
+
+S5.2 (Inflation: walking the tightrope - animation + breach info)
+
+  (1) RBI Monetary Policy Report, October 2025.
+      [v] https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=21023
+
+  (2) Section 45ZN of the RBI Act, 1934 (3-quarter breach
+      reporting requirement). First-ever Section 45ZN report sent
+      November 2022 after 10 months of CPI > 6%.
+
+  Animation on slide: 16-frame tightrope walker PNG sequence
+  (figures/tightrope-1.png through tightrope-16.png).
+  Plays in Adobe Reader and Sumatra PDF; static fallback in
+  macOS Preview / Chrome / Edge / Firefox PDF viewers.
+
+================================================================
+SEGMENT 6 - NATIONAL-LEVEL RISK (closes Day 1)
+================================================================
+
+S6.1 (The four macro vulnerabilities + reconstructed CAD chart)
+
+  (1) IMF Press Release 25/392 (24 Nov 2025): India Article IV.
+      Q1 FY26 GDP +7.8%.
+      [v] https://www.imf.org/en/news/articles/2025/11/24/pr-25392-india-imf-executive-board-concludes-2025-article-iv-consultation
+
+  (2) IMF Country Report 25/314 (Nov 2025): India Article IV.
+      CAD/GDP FY25 ~0.6%; general govt debt ~83% of GDP.
+      [v] https://www.elibrary.imf.org/view/journals/002/2025/314/article-A001-en.xml
+
+  (3) Union Budget 2025-26 (1 Feb 2025): Centre fiscal deficit
+      FY26 target 4.4% of GDP.
+      [v] https://www.indiabudget.gov.in/
+
+  (4) S&P Global Ratings (14 Aug 2025): India sovereign upgrade
+      to BBB. Combined Centre+State fiscal deficit ~7.3%.
+      [v] Press coverage: https://tradingeconomics.com/india/news/news/499222
+
+  (5) RBI Monetary Policy Report October 2025: NEER -8%,
+      REER -9.9% in 2025.
+      [v] https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=21023
+
+  (6) Rangarajan 2012 PMEAC commentary on 2.5% CAD threshold
+      (NOT from the 1993 BoP Committee, which had a 1.6% number).
+      [v] Business Standard:
+      https://www.business-standard.com/article/economy-policy/current-account-deficit-to-come-down-to-3-5-rangarajan-112112403009_1.html
+
+  (7) RBI quarterly BoP press releases: source for the
+      reconstructed CAD/GDP series FY12--Q1 FY26.
+      [v] https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx
+      Latest CAD figure (June 2025 release, FY25 CAD = US$23.3 bn):
+      https://www.business-standard.com/markets/capital-market-news/india-s-current-account-deficit-falls-to-us-23-3-billion-in-fy25-compared-to-us-26-0-billion-in-fy24-125063000347_1.html
+
+  CAD data series plotted (RBI BoP):
+   FY12: -4.3 | FY13: -4.8 (taper peak) | FY14: -1.7 | FY15: -1.3
+   FY16: -1.1 | FY17: -0.6 (trough)     | FY18: -1.8 | FY19: -2.1
+   FY20: -0.9 | FY21: +0.9 (COVID surplus) | FY22: -1.2 | FY23: -2.0 (Ukraine)
+   FY24: -0.7 | FY25: -0.6              | Q1 FY26: -0.2
+
+  Chart on slide: reconstructed in pgfplots (LaTeX-native), not
+  a screenshot. Shaded band 0 to -2.5% (Rangarajan 2012 comfort
+  range); inflection points annotated for 2013, 2021, 2023.
+
+S6.2 (Day 1 closing summary recap)
+  No external sources. Summary of Segments 3-6.
+
+
+================================================================
+DAY 2 -- THE RUPEE AND THE WORLD
+================================================================
+
+----------------------------------------------------------------
+SEGMENT 1 - THE RUPEE (Day 2)
+----------------------------------------------------------------
+
+Day 2 S1.1 (The rupee in three views: NEER + REER + USD/INR chart)
+
+  (1) RBI Handbook of Statistics on the Indian Economy,
+      Table 145 (Exchange Rate of the Indian Rupee vis-a-vis
+      major currencies) + monthly NEER/REER series.
+      [v] HBS publications page:
+      https://www.rbi.org.in/Scripts/AnnualPublications.aspx?head=Handbook%20of%20Statistics%20on%20Indian%20Economy
+      [v] RBI Database on Indian Economy (DBIE):
+      https://dbie.rbi.org.in
+
+  (2) RBI Reference Rate Archive (daily USD/INR reference rate).
+      [v] https://www.rbi.org.in/scripts/ReferenceRateArchive.aspx
+
+  (3) RBI Monetary Policy Report, October 2025
+      (REER fell ~9.9% in CY 2025).
+      [v] https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=21023
+
+  Chart on slide: user-made line chart with three series
+  (USD/INR inverted, NEER, REER) indexed to 100 at 2015-16.
+  Events annotated: 1991, 2008, 2013, 2016 demonetisation,
+  2022, 2025-26.
+
+Day 2 S1.2 (CAD as % of GDP chart + components table)
+
+  (1) RBI quarterly Balance of Payments press releases.
+      [v] https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx
+      Latest CAD release (June 2025): https://www.business-standard.com/markets/capital-market-news/india-s-current-account-deficit-falls-to-us-23-3-billion-in-fy25-compared-to-us-26-0-billion-in-fy24-125063000347_1.html
+
+  (2) RBI Database on Indian Economy (DBIE) - BoP statistics
+      for capital flows, FDI, remittances, terms of trade.
+      [v] https://dbie.rbi.org.in
+
+  (3) Knomad / World Bank, Migration and Development Brief
+      (remittances cross-country comparison; India remains the
+      world's largest recipient).
+      [v] https://www.knomad.org/data/remittances
+
+  Components table values from user's existing doc (fig20 panel).
+
+----------------------------------------------------------------
+SEGMENT 2 - WHAT MOVES THE RUPEE (Day 2)
+----------------------------------------------------------------
+
+Day 2 S2.1 (Global financial conditions - Chart 1.8)
+
+  (1) RBI Financial Stability Report June 2024, Chart 1.8.
+      Panel (a): Goldman Sachs Financial Conditions Index (FCI).
+      Panel (b): MOVE Index + CBOE VIX.
+      [v] RBI FSR page:
+      https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=1248
+      Direct PDF (June 2024 FSR):
+      https://rbidocs.rbi.org.in/rdocs/PublicationReport/Pdfs/0FSRJUNE202434E66DABCF4843C9871C0C9F75C90BA1.PDF
+
+  Chart on slide: fig25-financial-conditions-vix.png from
+  user's existing doc (unmodified).
+
+Day 2 S2.2 (Asset valuations and credit spreads - Chart 1.14 modified)
+
+  (1) RBI Financial Stability Report June 2024, Chart 1.14.
+      Panel (a): Stock prices indexed (MSCI World, S&P 500, MSCI EM).
+      Panel (c): Corporate credit spreads (Asia, LatAm, Europe, US,
+      investment grade).
+      Panel (b) Equity volatility (VIX) DROPPED on slide to avoid
+      duplication with Chart 1.8.
+      [v] RBI FSR page:
+      https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=1248
+
+  Chart on slide: fig17-rbi-fsr-asset-valuations.png from user's
+  existing doc with panel (b) removed.
+
+Day 2 S2.3 (Fed-RBI rate gap chart)
+
+  (1) US Federal Reserve, Federal Funds Effective Rate (monthly).
+      [v] FRED series FEDFUNDS:
+      https://fred.stlouisfed.org/series/FEDFUNDS
+      [v] Fed H.15 release:
+      https://www.federalreserve.gov/releases/h15/
+
+  (2) RBI Monetary Policy press releases (MPC decisions) -
+      Repo Rate history.
+      [v] https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx
+      Consolidated history mirror (Stable Investor):
+      https://stableinvestor.com/2021/10/rbi-repo-rate-history-india.html
+
+  Chart on slide: user-made. Three lines/areas - US Fed Funds
+  Rate, RBI Repo Rate, and the gap between them. Monthly,
+  Jan 2010 to May 2026. Annotated event markers for 22 May 2013
+  (Bernanke taper speech), Feb-Dec 2022 (Fed hikes 425 bp),
+  Sept 2024 (Fed cuts), May 2026 (current).
+
+Day 2 S2.4 (FPI flows chart)
+
+  (1) National Securities Depository Limited (NSDL),
+      FPI Monitor - Monthly Net Investments (equity, debt, hybrid).
+      [v] https://www.fpi.nsdl.co.in
+
+  (2) RBI quarterly BoP press releases (cross-reference for FPI
+      flows on a balance-of-payments basis).
+      [v] https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx
+
+  Chart on slide: user-made. Monthly net FPI flows (equity +
+  debt), Jan 2018 to May 2026. Annotated reversal moments:
+  March 2020 COVID (~-$8 bn), Feb-Jul 2022 Ukraine
+  (~-$30 bn cumulative), CY 2025 tariffs (~-$18 bn).
+
+----------------------------------------------------------------
+SEGMENT 3 - SIX DECADES OF RUPEE STRESS TESTS (Day 2)
+----------------------------------------------------------------
+
+Day 2 S3.1 (1991 + 2003-04: Reserves at both ends)
+
+  1991: The Reserves Crisis
+
+  (1) RBI Chronology of Events 1991-2000 (official chronology).
+      [v] https://www.rbi.org.in/commonman/english/history/Scripts/Chron1991to2000.aspx
+
+  (2) RBI Annual Report 1990-91 (reserves data, gold operations).
+      [v] https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx
+
+  (3) 1991 Indian Economic Crisis - consolidated Wikipedia article
+      with well-sourced citations (reserves US$1.2 bn Jan 1991,
+      US$0.6 bn by June, two-step devaluation 1 & 3 July 1991).
+      [v] https://en.wikipedia.org/wiki/1991_Indian_economic_crisis
+
+  (4) Indian National Congress (Sandesh archive). Gold mobilisation:
+      20 t to UBS on 16 May 1991; 47 t to Bank of England 4-18 Jul 1991.
+      [v] https://inc.in/congress-sandesh/achievement/how-narasimha-rao-and-dr-manmohan-singh-rescued-india-in-1991-and-made-history
+
+  (5) Business Standard (1 July 2016). "25 years of the rupee's
+      historic devaluation" (two-step 9% + 11% devaluation;
+      cumulative ~18% in USD terms).
+      [v] https://www.business-standard.com/article/finance/25-years-of-the-rupee-s-historic-devaluation-116070100168_1.html
+
+  2003-04: The Appreciation Problem
+
+  (1) RBI Annual Report 2003-04, Chapter VI: Balance of Payments.
+      [v] https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx?Id=659
+
+  (2) RBI-Government of India Memorandum of Understanding on the
+      Market Stabilisation Scheme (MSS), 25 March 2004.
+      Coverage summaries:
+      [v] Prepp Indian Economy notes:
+      https://prepp.in/news/e-492-market-stabilization-scheme-mss-indian-economy-notes
+      [v] Testbook explanatory note:
+      https://testbook.com/question-answer/rbi-launched-the-market-stabilisation-scheme-mss--62e4d9899af48be9a42643c7
+      [v] IndianEconomy.net:
+      https://indianeconomy.com/splclassroom/what-is-market-stabilization-scheme-mss-how-it-is-used-to-manage-demonetisation/
+
+  (3) RBI Handbook of Statistics on the Indian Economy, Table 140
+      (exchange rates by year - for the FY04 rupee path).
+      [v] https://rbidocs.rbi.org.in/rdocs/Publications/PDFs/140TE74E725980E74CB987BB87D52853686D.PDF
+
+Day 2 S3.2 (2008 + 2013: The global cycle hits home)
+
+  2008: The Global Financial Crisis
+
+  (1) Business Standard (22 April 2009). "RBI surprises market
+      with cut in short-term rates" (~Rs.4.63 lakh crore liquidity
+      injected; 425 bp repo cut from 9% to 4.75%).
+      [v] https://www.business-standard.com/amp/article/finance/rbi-surprises-market-with-cut-in-short-term-rates-109042200120_1.html
+
+  (2) Stable Investor: RBI Repo Rate History (precise dates of
+      every rate change, including July 2008 to April 2009 cuts).
+      [v] https://stableinvestor.com/2021/10/rbi-repo-rate-history-india.html
+
+  (3) Yale Program on Financial Stability, New Bagehot Project:
+      "India: Reserve Requirements, GFC" (CRR 9% -> 5%; SLR 25% ->
+      24%; total US$40.9 bn released).
+      [v] https://newbagehot.yale.edu/docs/india-reserve-requirements-gfc
+
+  (4) Indian Institute of Banking and Finance (IIBF), Monthly Column
+      March 2009. "Global Financial Crisis and How India is Coping
+      with it" (FII outflows, Sensex fall).
+      [v] https://iibf.org.in/monthlycolumn_mar09.asp
+
+  (5) RBI Annual Report 2008-09.
+      [v] https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx
+
+  2013: The Taper Tantrum
+
+  (1) Business Standard (27 June 2013). "India's current account
+      deficit widens to record 4.8 percent" (FY13 CAD US$87.8 bn,
+      4.8% of GDP; Q3 FY13 CAD alone 6.7%).
+      [v] https://www.business-standard.com/amp/article/news-ians/current-account-deficit-widens-to-record-4-8-percent-113062700490_1.html
+
+  (2) Business Standard (6 December 2013). "Bankers say extended
+      FCNR-B facility makes little sense" (FCNR(B) + Tier-I swap
+      window mopped up US$34 bn).
+      [v] https://www.business-standard.com/amp/article/finance/bankers-say-extended-fcnr-b-facility-makes-little-sense-113120600601_1.html
+
+  (3) Business Standard (4 September 2013). RBI swap-window
+      opening press release coverage.
+      [v] https://www.business-standard.com/amp/article/news-cm/rbi-to-open-a-swap-window-to-attract-fcnr-b-dollar-funds-113090401165_1.html
+
+  (4) Narayan, Ananth (SPJIMR, 2018). "The 2013 RBI FCNR(B) Swap
+      Window - Review & Takeaways" (technical breakdown: US$26 bn
+      FCNR alone; US$34 bn combined including Tier-I window).
+      [v] https://www.spjimr.org/newsroom/blog/the-2013-rbi-fcnrb-swap-window-review-takeaways/
+
+  (5) Business Standard (11 November 2013). Interim figure ($17.5 bn
+      raised by mid-Nov 2013 under the swap windows).
+      [v] https://www.business-standard.com/amp/article/finance/swap-window-for-nri-deposits-borrowings-fetches-17-5-bn-113111100397_1.html
+
+Day 2 S3.3 (2022 + 2025-26: Double squeezes)
+
+  2022: Russia-Ukraine and the Double Squeeze
+
+  (1) Business Standard (31 October 2022). "India Forex Reserves
+      Fall By USD 3.85 Billion" (week ended 21 Oct 2022, reserves
+      US$524.52 bn; all-time high US$645 bn in Oct 2021).
+      [v] https://www.business-standard.com/amp/article/news-cm/india-forex-reserves-fall-by-usd-3-85-billion-122103100365_1.html
+
+  (2) RBI Monetary Policy Report April 2023 (first-ever Section
+      45ZN report to GoI; 10 months of CPI breach).
+      [v] https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=21610
+
+  (3) RBI Annual Report 2022-23 (full year monetary operations,
+      intervention, repo path).
+      [v] https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx
+
+  2025-26: Tariffs and the Slow Squeeze
+
+  (1) Trading Economics, Indian Rupee live tracker (Rs.95.6/USD on
+      22 May 2026; record low Rs.97.15 on 19 May 2026; RBI selling
+      dollars via state banks).
+      [v] https://tradingeconomics.com/india/currency
+
+  (2) IMF Press Release 25/392 (24 November 2025). 2025 Article IV
+      Consultation with India.
+      [v] https://www.imf.org/en/news/articles/2025/11/24/pr-25392-india-imf-executive-board-concludes-2025-article-iv-consultation
+
+  (3) IMF Article IV Country Report 25/314 (November 2025).
+      Full PDF.
+      [v] https://www.imf.org/-/media/files/publications/cr/2025/english/1indea2025003-source-pdf.pdf
+
+  (4) NSDL FPI Monitor - CY 2025 net flows (net equity outflow
+      ~US$18 bn).
+      [v] https://www.fpi.nsdl.co.in
+
+  (5) Outlook Business (May 2026). "India's Economy Is Holding Up:
+      But Is the Worst Still Coming?" (CAD trajectory; Morgan
+      Stanley + Ambit calls on FY27).
+      [v] https://www.outlookbusiness.com/economy-and-policy/indias-economy-is-holding-up-but-is-the-worst-still-coming
+
+  (6) Indiamacroindicators (September 2025). "India's Current
+      Account Deficit" (Q1 FY26 CAD 0.2% of GDP).
+      [v] https://indiamacroindicators.co.in/resources/blogs/indias-current-account-deficit
+
+  (7) RBI Monetary Policy Report October 2025 (REER -9.9% in CY 2025).
+      [v] https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=21023
+
+----------------------------------------------------------------
+SEGMENT 4 - THE TOOLKIT AND THE IMPOSSIBLE TRINITY (Day 2)
+----------------------------------------------------------------
+
+Day 2 S4.1 (Reserves toolkit - components chart + ARA chart)
+
+  (1) RBI Weekly Statistical Supplement (WSS). Source of FCA,
+      Gold, SDRs, and IMF reserve position weekly data.
+      [v] https://www.rbi.org.in/Scripts/WSSView.aspx
+
+  (2) RBI Monetary Policy Report October 2025 (reserve adequacy
+      commentary).
+      [v] https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=21023
+
+  (3) IMF Article IV Country Report 25/314 (Nov 2025). IMF
+      Assessing Reserve Adequacy (ARA) metric for India.
+      [v] https://www.imf.org/-/media/files/publications/cr/2025/english/1indea2025003-source-pdf.pdf
+
+  (4) The Mirrority. India Forex Reserves data and analysis
+      (historical reserves + composition; Haver Analytics mirror).
+      [v] https://www.themirrority.com/data/forex-reserves
+
+  Charts on slide (both user-made):
+   LEFT: Stacked bars (FCA + Gold + SDRs + IMF position) + line
+         (Total reserves) using Haver Analytics International
+         Liquidity series, 2015 to April 2026. 2022 column
+         shaded; annotations for Oct 2021 peak (US$645 bn) and
+         2022 Russia-Ukraine drawdown (~US$120 bn used).
+   RIGHT: Actual reserves vs IMF ARA metric, both in US$ bn,
+          with shaded buffer band between them.
+
+Day 2 S4.2 (Intervention toolkit - 4 instruments table)
+
+  (1) RBI Annual Reports (multi-year reference for spot, forward,
+      NDF intervention episodes).
+      [v] https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx
+
+  (2) Mohan, R. & Kapur, M. (2014). "Monetary Policy Coordination
+      and the Role of Central Banks." IMF Working Paper WP/14/70.
+      [v] https://www.imf.org/external/pubs/ft/wp/2014/wp1470.pdf
+
+  (3) Patnaik, I. & Shah, A. (2010). "Asia Confronts the
+      Impossible Trinity." NIPFP Working Paper.
+      [v] https://macrofinance.nipfp.org.in/PDF/PatnaikShah2010_AsiaTrilemma.pdf
+
+  (4) MSS launch (April 2004) - see Day 2 S3.1 references.
+
+  (5) MSS reactivation for demonetisation (November 2016).
+      [v] https://indianeconomy.com/splclassroom/what-is-market-stabilization-scheme-mss-how-it-is-used-to-manage-demonetisation/
+
+  (6) FCNR(B) swap window 2013 (US$34 bn) - see Day 2 S3.2
+      references.
+
+  4-row table on slide (instrument / how it works / Indian example).
+
+Day 2 S4.3 (The Impossible Trinity - TikZ triangle)
+
+  (1) Mundell, R.A. (1963). "Capital Mobility and Stabilization
+      Policy under Fixed and Flexible Exchange Rates." Canadian
+      Journal of Economics and Political Science 29(4): 475-485.
+      [v] JSTOR: https://www.jstor.org/stable/139336
+      [v] IMF eLibrary version:
+      https://www.elibrary.imf.org/view/journals/024/1962/004/article-A001-en.xml
+
+  (2) Fleming, J.M. (1962). "Domestic Financial Policies under
+      Fixed and under Floating Exchange Rates." IMF Staff Papers
+      9(3): 369-380.
+      [v] https://www.elibrary.imf.org/view/journals/024/1962/003/article-A001-en.xml
+
+  (3) Rey, H. (2015). "Dilemma not Trilemma: The Global Financial
+      Cycle and Monetary Policy Independence." Jackson Hole; NBER
+      Working Paper 21162.
+      [v] https://www.nber.org/papers/w21162
+
+  (4) RBI Monetary Policy Report October 2025 (India's managed-
+      float + partial capital account position).
+      [v] https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=21023
+
+  (5) Patnaik, I. & Shah, A. (2010) - see Day 2 S4.2.
+
+  Diagram on slide: native TikZ triangle, three vertices
+  (Independent monetary policy / Free capital flows / Fixed
+  exchange rate) with India positioned in the middle.
+
+----------------------------------------------------------------
+SEGMENT 5 - OUTLOOK (Day 2)
+----------------------------------------------------------------
+
+Day 2 S5.1 (Where does the rupee go from here? - 3 scenarios)
+
+  Base case (RBI April 2026 MPC Statement)
+
+  (1) RBI Monetary Policy Statement, April 2026 (Repo held at
+      5.25%; FY27 GDP revised to 6.9%; FY27 CPI revised up to
+      4.6%). Summaries used because the RBI press release page
+      uses dated IDs; the summaries below reproduce the headline
+      numbers and link to the RBI source.
+      [v] Finnovate Research summary:
+      https://www.finnovate.in/learn/blog/rbi-repo-rate-unchanged-april-2026
+      [v] HDFC Fund Monetary Policy Review April 2026:
+      https://www.hdfcfund.com/learn/macros-markets-more/monetary-policy/monetary-policy-review-april-2026
+
+  (2) RBI Monetary Policy press releases archive (link to find
+      the official April 2026 statement by date).
+      [v] https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx
+
+  (3) CEIC Data: RBI Monetary Policy Statement Inflation Projection
+      series (FY27 CPI 4.6%).
+      [v] https://www.ceicdata.com/en/india/rbi-monetary-policy-statement-inflation-projection
+
+  (4) Trading Economics (6 February 2026). "India Holds Rates,
+      Revises Up FY25/26 GDP Forecasts" (cross-reference: RBI Feb
+      2026 MPC - FY26 GDP 7.4%; FY26 CPI 2.1%; Dec 2025 CPI 1.33%).
+      [v] https://tradingeconomics.com/india/interest-rate/news/523674
+
+  Downside case (tariff escalation, oil sustained)
+
+  (5) Univest (May 2026). "Indian Rupee's 7% Fall in 2026: The
+      Crude Shock, the RBI's $103 Billion Problem" (BofA Securities:
+      CAD could widen to >2% of GDP in FY27, widest since FY13;
+      10Y G-Sec crossed 7% in May 2026).
+      [v] https://univest.in/blogs/indian-rupee-7-percent-fall-2026-crude-shock-us-iran-war-relief
+
+  (6) Outlook Business (May 2026). "India's Economy Is Holding Up:
+      But Is the Worst Still Coming?" (Morgan Stanley + Ambit
+      downside calls).
+      [v] https://www.outlookbusiness.com/economy-and-policy/indias-economy-is-holding-up-but-is-the-worst-still-coming
+
+  (7) Zee Business (April 2026). Yes Bank report on near-term
+      inflation (could reach 4.8%).
+      [v] https://www.zeebiz.com/hindi/banking/rbi-monetary-policy-inflation-forecast-gdp-growth-report-2026-us-iran-war-impact-economy-252931
+
+  (8) Trading Economics, Indian Rupee live tracker (rupee record
+      low Rs.97.15 on 19 May 2026).
+      [v] https://tradingeconomics.com/india/currency
+
+  Upside case (trade deal + oil softens)
+
+  (9) IMF Press Release 25/392 (24 November 2025): 2025 Article
+      IV Consultation. Baseline FY26 GDP 6.6%; FY27 GDP 6.2%.
+      [v] https://www.imf.org/en/news/articles/2025/11/24/pr-25392-india-imf-executive-board-concludes-2025-article-iv-consultation
+
+  (10) IMF Article IV Country Report 25/314 (November 2025).
+       Full PDF: CAD, reserve adequacy, capital flows tables.
+       [v] https://www.imf.org/-/media/files/publications/cr/2025/english/1indea2025003-source-pdf.pdf
+
+================================================================
+END OF FILE
+================================================================
